@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "Gilroy Regular";
+    src: url(../fonts/gilroy-regular.ttf);
+}
+@font-face {
+    font-family: "Gilroy Bold";
+    src: url(../fonts/gilroy-regular.ttf);
+}
+@font-face {
+    font-family: "Noto Serif Bold";
+    src: url(../fonts/notoserifbold.ttf);
+}
